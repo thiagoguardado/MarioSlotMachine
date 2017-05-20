@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlotMachine</string>
+    <string name="menu_button_jogar">Jogar</string>
+    <string name="menu_button_sobre">Sobre</string>
+    <string name="nome_desenvolvedor">Desenvolvido por Thiago Guardado</string>
+
+
+</resources>
